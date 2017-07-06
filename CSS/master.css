@@ -1,0 +1,15 @@
+img {
+  heig: 170px;
+  width: 170px;
+  border: 1px solid black;
+  border-radius: 1px;
+}
+
+.parent {
+  display: flex;
+  justify-content: space-between;
+}
+
+#titre {
+ text-align: center;
+  }
