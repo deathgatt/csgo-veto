@@ -64,9 +64,6 @@ $('#b').click(function() {
   }
 })
 
-var teamA = true,
-  teamB = false;
-
 //COUNTDOWN FOR VOTE EVENTS
 var count = 10;
 function countDown() {
